@@ -47,7 +47,7 @@ experience:
     company_logo: org-x
     location: Pisa
     date_start: '2018-10-01'
-    date_end: '2019-02-31'
+    date_end: '2019-02-28'
     description: 
 
 design:
