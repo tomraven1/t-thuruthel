@@ -25,7 +25,7 @@ experience:
   - title: Senior Research Associate
     company: University of Cambridge
     company_url: ''
-    company_logo: org-gc
+    company_logo: cam
     location: Cambridge
     date_start: '2022-04-01'
     date_end: '2023-01-20'
