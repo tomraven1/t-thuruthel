@@ -2,12 +2,11 @@
 title: Thomas George Thuruthel
 role: Assistant Professor (Lecturer) in Robotics and AI
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include soft robotics, control and machine learning
 interests:
+  - Soft Robotics
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Control Theor
 social:
   - icon: envelope
     icon_pack: fas
