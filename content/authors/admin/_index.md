@@ -6,7 +6,7 @@ bio: My research interests include soft robotics, control and machine learning
 interests:
   - Soft Robotics
   - Artificial Intelligence
-  - Control Theor
+  - Control Theory
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,19 +27,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University College London
+    url: https://www.ucl.ac.uk/computer-science/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in BioRobotics
+      institution: Scuola Superiore Sant'Anna
+      year: 2019
+    - course: MS in BioRobotics
+      institution: "Waseda University "
+      year: 2015
+    - course: BTech in Mechanical Engineering
+      institution: Indian Institute of Technology (IIT) Hyderabad
+      year: 2013
 superuser: true
 last_name: Bighetti
 highlight_name: true
