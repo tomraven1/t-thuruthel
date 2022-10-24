@@ -23,7 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Senior Research Associate
-    company: GenCoin
+    company: University of Cambridge
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2022-04-01'
+    date_end: '2023-01-20'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+
+  - title: Research Associate
+    company: University of Cambridge
     company_url: ''
     company_logo: org-gc
     location: California
@@ -35,6 +49,7 @@ experience:
         * Analysing
         * Modelling
         * Deploying
+
 
   - title: Professor of Semiconductor Physics
     company: University X
