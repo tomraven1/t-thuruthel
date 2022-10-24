@@ -8,24 +8,15 @@ interests:
   - Artificial Intelligence
   - Control Theory
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.in/citations?user=IcJ_daEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/tomraven1
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/thomas-george-thuruthel-8a893319/
 organizations:
   - name: University College London
     url: https://www.ucl.ac.uk/computer-science/
@@ -44,7 +35,7 @@ superuser: true
 last_name: Bighetti
 highlight_name: true
 first_name: Alice
-email: ""
+email: t.thuruthel@ucl.ac.uk
 ---
 
 Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
