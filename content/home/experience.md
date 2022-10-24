@@ -34,7 +34,7 @@ experience:
   - title: Research Associate
     company: University of Cambridge
     company_url: ''
-    company_logo: org-gc
+    company_logo: cam
     location: Cambridge
     date_start: '2019-06-01'
     date_end: '2022-03-01'
@@ -44,7 +44,7 @@ experience:
   - title: Research Assistant
     company: Scuola Superiore Sant'Anna
     company_url: ''
-    company_logo: org-x
+    company_logo: sssa.jpg
     location: Pisa
     date_start: '2018-10-01'
     date_end: '2019-02-28'
