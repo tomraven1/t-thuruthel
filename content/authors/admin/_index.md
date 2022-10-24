@@ -38,4 +38,4 @@ highlight_name: true
 first_name: Alice
 email: t.thuruthel@ucl.ac.uk
 ---
-D﻿r Thomas George Thuruthel is a lecturer in Robotics and AI in the Department of Computer Science at University College London. H﻿is re
+D﻿r Thomas George Thuruthel is a lecturer in Robotics and AI in the Department of Computer Science at University College London. His research interests include modelling and control of soft bodied systems, soft sensing technologies, dexterous manipulation, and applications of AI in robotic systems.
