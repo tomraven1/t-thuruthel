@@ -25,35 +25,30 @@ experience:
   - title: Senior Research Associate
     company: University of Cambridge
     company_url: ''
-    company_logo: org-gc
+    company_logo: cam
     location: Cambridge
     date_start: '2022-04-01'
     date_end: '2023-01-20'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: 
 
   - title: Research Associate
     company: University of Cambridge
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Cambridge
+    date_start: '2019-06-01'
+    date_end: '2022-03-01'
     description: 
 
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Assistant
+    company: Scuola Superiore Sant'Anna
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Pisa
+    date_start: '2018-10-01'
+    date_end: '2019-02-31'
+    description: 
 
 design:
   columns: '2'
