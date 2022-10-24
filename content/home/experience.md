@@ -44,7 +44,7 @@ experience:
   - title: Research Assistant
     company: Scuola Superiore Sant'Anna
     company_url: ''
-    company_logo: sssa.jpg
+    company_logo: sssa
     location: Pisa
     date_start: '2018-10-01'
     date_end: '2019-02-28'
