@@ -5,8 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include soft robotics, control and machine learning
 interests:
   - Soft Robotics
-  - Artificial Intelligence
   - Control Theory
+  - Soft Sensing
+  - Artificial Intelligence
 social:
   - icon: graduation-cap
     icon_pack: fas
