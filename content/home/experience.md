@@ -29,7 +29,12 @@ experience:
     location: Cambridge
     date_start: '2022-04-01'
     date_end: '2023-01-20'
-
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
   - title: Research Associate
     company: University of Cambridge
