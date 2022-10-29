@@ -7,7 +7,7 @@ title: Openings
 subtitle: ''
 
 # Position of this section on the page
-weight: 50
+weight: 90
 
 content:
   # Filter content to display
