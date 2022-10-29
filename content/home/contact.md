@@ -18,7 +18,7 @@ content:
 
   # Contact details (edit or remove options as required)
   address:
-    street: 1 Pool St,  
+    street: 1 Pool St  
     city: London
     postcode: 'E20 2AF'
     country: United Kingdon
