@@ -18,7 +18,7 @@ url_video: ''
 
 ---
 
-I am advertising few PhD positions available in the new research centre in Autonomous Robotics in the Department of Computer Science at University College London. The research topics are broadly in the field of soft robotics, learning-based control, soft sensing technologies, and applied machine learning, starting in September 2023. Please fill out this expression of interest before 1st of December for the initial screening process (https://forms.gle/3TbicE8BwjAABGN6A) (**we will not consider applications by email**), which will ask you to submit:
+I am advertising few PhD positions available in the new research centre in Autonomous Robotics in the Department of Computer Science at University College London. The research topics are broadly in the field of soft robotics, learning-based control, soft sensing technologies, and applied machine learning, starting in September 2023. Please fill out this expression of interest before 1st of December for the initial screening process [link](https://forms.gle/3TbicE8BwjAABGN6A) (**we will not consider applications by email**), which will ask you to submit:
 
 - a CV
 - a research proposal (can be from 1-3 pages) [Download template for research proposal]  (https://www.overleaf.com/read/jxvcwfsvjcqf)
@@ -36,5 +36,5 @@ Have a look at our [CDT for Foundational AI] (https://eur03.safelinks.protection
 We will not consider applicants to UCL's PhD program, who did not submit an expression of interest.
 
 ### Funding and Scholarships
-Note: Funding for PhD students must be obtained through scholarship programs. There are several scholarships available, e.g., through the university. There are some [overseas scholarships]([link](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ucl.ac.uk%2Fprospective-students%2Fscholarships%2Fgraduate%2Fovers-res%2Fors&amp;data=05%7C01%7Ctg444%40universityofcambridgecloud.onmicrosoft.com%7Cb4572fe1219b469a55aa08dab35e237b%7C49a50445bdfa4b79ade3547b4f3986e9%7C0%7C0%7C638019514139329648%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=4JA5qc8uUhrt78%2B5GgosTDcyvWvRnRGp8DZlC5Uc3Eo%3D&amp;reserved=0)) available at UCL.
+Note: Funding for PhD students must be obtained through scholarship programs. There are several scholarships available, e.g., through the university. There are some overseas scholarships available at UCL (https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ucl.ac.uk%2Fprospective-students%2Fscholarships%2Fgraduate%2Fovers-res%2Fors&amp;data=05%7C01%7Ctg444%40universityofcambridgecloud.onmicrosoft.com%7Cb4572fe1219b469a55aa08dab35e237b%7C49a50445bdfa4b79ade3547b4f3986e9%7C0%7C0%7C638019514139329648%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=4JA5qc8uUhrt78%2B5GgosTDcyvWvRnRGp8DZlC5Uc3Eo%3D&amp;reserved=0).
 
