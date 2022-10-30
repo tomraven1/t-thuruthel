@@ -2,7 +2,6 @@
 title: Control of Soft Robots
 summary: (In Progress).
 tags:
-  - Deep Learning
 date: '2016-04-27T00:00:00Z'
 
 
