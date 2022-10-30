@@ -3,7 +3,6 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 
-title: Proects (In Progress)
 
 # This file represents a page section.
 headless: true
