@@ -14,7 +14,7 @@ links:
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:"figure1_new.png"
+image:
   caption: 
   focal_point: Smart
 
