@@ -24,6 +24,6 @@ url_video: ''
 ---
 
 
-{{< figure src="image.jpg" caption="A caption" numbered="true" >}}
+{{< figure src="figure1_new.png" caption="A caption" numbered="true" >}}
 
 TBC.
