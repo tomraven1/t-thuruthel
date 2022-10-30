@@ -5,11 +5,7 @@ tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+
     
 # Optional external URL for project (replaces project detail page).
 external_link: ''
