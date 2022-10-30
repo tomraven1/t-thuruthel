@@ -1,13 +1,19 @@
 ---
 title: Example Talk
 
-event: RobotTalk
-event_url: https://www.ukras.org.uk/RobotTalk/episode-8-soft-robotics/
+event: Wowchemy Conference
+event_url: https://example.org
 
-location: Online
+location: Wowchemy HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
-summary: feature.
-abstract: Throughout the series so far, soft robotics has come up over and over in different areas, from medicine to agriculture. In this episode, I’ll be chatting to three roboticists working on different applications of this fascinating and fast-developing area of robotics: Dr Thomas Thuruthel (University of Cambridge), Angus Clark (Imperial College London) and Dr Jelizaveta Konstantinova (Ocado Technology).
+summary: An example talk using Wowchemy's Markdown slides feature.
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
