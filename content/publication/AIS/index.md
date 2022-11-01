@@ -1,8 +1,14 @@
 ---
-title: "An example preprint / working paper"
+title: "Learning-Based Damage Recovery for Healable Soft Electronic Skins"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- Seppe Terryn
+- David Hardman
+- Thomas George Thuruthel
+- Ellen Roels
+- Fatemeh Sahraeeazartamar
+- Fumiya Iida
+
+date: "2022-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
