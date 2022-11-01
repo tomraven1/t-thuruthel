@@ -29,31 +29,23 @@ abstract: Natural agents display various adaptation strategies to damages, inclu
 # Summary. An optional shortened abstract.
 
 tags:
+- Source Themes
+featured: false
 
 featured: false
 
-# links:
-# - name: ""
-#   url: "https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200115"
-url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200115
-url_code: ''
-url_dataset: ''
-url_poster: ''
+links:
+- name: Custom Link
+  url: http://example.org
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_dataset: '#'
+url_poster: '#'
 url_project: ''
 url_slides: ''
-url_source: ''
-url_video: ''
+url_source: '#'
+url_video: '#'
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's 
 
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
