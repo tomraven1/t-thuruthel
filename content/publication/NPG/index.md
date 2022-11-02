@@ -1,11 +1,8 @@
 ---
-title: "Learning-Based Damage Recovery for Healable Soft Electronic Skins"
+title: "Self-healing ionic gelatin/glycerol hydrogels for strain sensing applications"
 authors:
-- Seppe Terryn
 - David Hardman
 - Thomas George Thuruthel
-- Ellen Roels
-- Fatemeh Sahraeeazartamar
 - Fumiya Iida
 
 date: "2022-04-07T00:00:00Z"
@@ -21,10 +18,10 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "NPG Asia Materials"
 publication_short: ""
 
-abstract: Natural agents display various adaptation strategies to damages, including damage assessment, localization, healing, and recalibration. This work investigates strategies by which a soft electronic skin can similarly preserve its sensitivity after multiple damages, combining material-level healing with software-level adaptation. Being manufactured entirely from self-healing Diels–Alder matrix and composite fibers, the skin is capable of physically recovering from macroscopic damages. However, the simultaneous shifts in sensor fiber sig
+abstract: Soft sensing technologies have the potential to revolutionize wearable devices, haptic interfaces and robotic systems. However, there are numerous challenges in the deployment of these devices due to their poor resilience, high energy consumption, and omnidirectional strain responsivity. This work reports the development of a versatile ionic gelatin-glycerol hydrogel for soft sensing applications. The resulting sensing device is inexpensive and easy to manufacture, is self-healable at room temperature, can undergo strains of up to 454%, presents stability over long periods of time, and is biocompatible and biodegradable. This material is ideal for strain sensing applications, with a linear correlation coefficient R2 = 0.9971 and a pressure-insensitive conduction mechanism. The experimental results show the applicability of ionic hydrogels for wearable devices and soft robotic technologies for strain, humidity, and temperature sensing while being able to partially self-heal at room temperature.
 
 # Summary. An optional shortened abstract.
 summary: 
