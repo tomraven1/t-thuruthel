@@ -12,7 +12,7 @@ address:
   postcode: 
   country: UK
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: UK RAS RobotTalk
 abstract: Throughout the series so far, soft robotics has come up over and over in different areas, from medicine to agriculture. In this episode, I’ll be chatting to three roboticists working on different applications of this fascinating and fast-developing area of robotics: Dr Thomas Thuruthel (University of Cambridge), Angus Clark (Imperial College London) and Dr Jelizaveta Konstantinova (Ocado Technology).
 
 
@@ -23,7 +23,7 @@ date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2021-01-01T00:00:00Z'
 
 authors: []
 tags: []
