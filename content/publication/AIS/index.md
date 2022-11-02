@@ -21,7 +21,7 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Advanced Intelligent Systems"
 publication_short: ""
 
 abstract: Natural agents display various adaptation strategies to damages, including damage assessment, localization, healing, and recalibration. This work investigates strategies by which a soft electronic skin can similarly preserve its sensitivity after multiple damages, combining material-level healing with software-level adaptation. Being manufactured entirely from self-healing Diels–Alder matrix and composite fibers, the skin is capable of physically recovering from macroscopic damages. However, the simultaneous shifts in sensor fiber sig
