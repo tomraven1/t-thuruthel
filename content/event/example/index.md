@@ -32,7 +32,7 @@ tags: []
 featured: false
 
 image:
-  caption: '
+  caption: ''
   focal_point: Right
 
 links:
