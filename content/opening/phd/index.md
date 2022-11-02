@@ -18,7 +18,7 @@ url_video: ''
 
 ---
 
-There are few PhD positions available in the new research centre in Autonomous Robotics in the Department of Computer Science at University College London. The research topics are broadly in the field of soft robotics, learning-based control, soft sensing technologies, and applied machine learning, starting in September 2023. Please fill out this expression of interest before 1st of December for the initial screening process [link](https://forms.gle/3TbicE8BwjAABGN6A) (**we will not consider applications by email**), which will ask you to submit:
+There are some PhD positions available in the new research centre in Autonomous Robotics in the Department of Computer Science at University College London. The research topics are broadly in the field of soft robotics, learning-based control, soft sensing technologies, and applied machine learning, starting in September 2023. Please fill out this expression of interest before 1st of December for the initial screening process [link](https://forms.gle/3TbicE8BwjAABGN6A) (**we will not consider applications by email**), which will ask you to submit:
 
 - a CV
 - a research proposal (can be from 1-3 pages) [Download template for research proposal]  [link](https://www.overleaf.com/read/jxvcwfsvjcqf)
