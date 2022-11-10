@@ -1,7 +1,7 @@
 ---
 title: Developmental Robotics
 summary: Modelling and control with minimal human intervention
-tags: Deep Learning
+tags: 'Deep Learning'
 date: '2019-04-27T00:00:00Z'
 
 
@@ -23,4 +23,4 @@ url_video: ''
 ---
 
 
-Human develop their perceptive system and motor skills ,arguably, in an unsupervised manner with only high-level feedback. 
+Human develop their perceptive system and motor skills ,arguably, in an unsupervised manner with only high-level feedback. Even in robotic systems that rely on learning-based approaches. 
