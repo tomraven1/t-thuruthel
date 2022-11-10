@@ -1,7 +1,7 @@
 ---
 title: Developmental Robotics
 summary: Modelling and control with minimal human intervention
-tags: 'Deep Learning'
+tags: 
 date: '2019-04-27T00:00:00Z'
 
 
