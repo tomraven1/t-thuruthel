@@ -6,7 +6,6 @@ authors:
 - Cecilia Laschi
 - Michael T Tolley
 
-journal=
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
