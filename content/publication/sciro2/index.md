@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "Science Robotics"
 publication_short: ""
 
-abstract:asd
+abstract:asd.
 
 # Summary. An optional shortened abstract.
 summary: 
