@@ -23,8 +23,12 @@ url_video: ''
 ---
 
 
-Human develop their perceptive system and motor skills ,arguably, in an unsupervised manner with only high-level feedback. Even in robotic systems that rely on learning-based approaches, human intervention and labelling is required for sensing and control.    
+Human develop their perceptive system and motor skills (arguably) in an unsupervised manner, with only high-level feedback. Even in robotic systems that rely on learning-based approaches, human intervention and labelling is required for sensing and control.    
+
+Some of these projects investigate weakly-supervised methods for developing forward models for state estimation and control. 
 
 
 
 {{< youtube 031JQxBirCI >}}
+
+{{< youtube _Qn3pB-BaWI >}}
