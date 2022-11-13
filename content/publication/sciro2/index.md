@@ -1,5 +1,5 @@
 ---
-title: "Electronic skins and machine learning for intelligent soft robots"
+title: "Soft robot perception using embedded soft sensors and recurrent neural networks"
 authors:
 - Thomas George Thuruthel
 - Benjamin Shih
@@ -7,11 +7,11 @@ authors:
 - Michael T Tolley
 
 
-date: "2020-04-07T00:00:00Z"
+date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2019-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,14 @@ publication_types: ["2"]
 publication: "Science Robotics"
 publication_short: ""
 
-abstract: Soft robots have garnered interest for real-world applications because of their intrinsic safety embedded at the material level. These robots use deformable materials capable of shape and behavioral changes and allow conformable physical contact for manipulation. Yet, with the introduction of soft and stretchable materials to robotic systems comes a myriad of challenges for sensor integration, including multimodal sensing capable of stretching, embedment of high-resolution but large-area sensor arrays, and sensor fusion with an increasing volume of data. This Review explores the emerging confluence of e-skins and machine learning, with a focus on how roboticists can combine recent developments from the two fields to build autonomous, deployable soft robots, integrated with capabilities for informative touch and proprioception to stand up to the challenges of real-world environments.
+abstract: Recent work has begun to explore the design of biologically inspired soft robots composed of soft, stretchable materials for applications including the handling of delicate materials and safe interaction with humans. However,
+the solid-state sensors traditionally used in robotics are unable to capture the high-dimensional deformations of soft systems. Embedded soft resistive sensors have the potential to address this challenge. However, both the soft
+sensors—and the encasing dynamical system—often exhibit nonlinear time-variant behavior, which makes them difficult to model. In addition, the problems of sensor design, placement, and fabrication require a great deal of
+human input and previous knowledge. Drawing inspiration from the human perceptive system, we created a synthetic analog. Our synthetic system builds models using a redundant and unstructured sensor topology
+embedded in a soft actuator, a vision-based motion capture system for ground truth, and a general machine learning approach. This allows us to model an unknown soft actuated system. We demonstrate that the proposed
+approach is able to model the kinematics of a soft continuum actuator in real time while being robust to sensor nonlinearities and drift. In addition, we show how the same system can estimate the applied forces while interacting
+with external objects. The role of action in perception is also presented. This approach enables the development of force and deformation models for soft robotic systems, which can be useful for a variety of applications, including
+human-robot interaction, soft orthotics, and wearable robotics.
 
 # Summary. An optional shortened abstract.
 summary: 
