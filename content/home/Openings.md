@@ -14,7 +14,7 @@ content:
   filters:
     # The folders to display content from
     folders:
-      - openings
+      - opening
     tag: ''
     category: ''
     publication_type: ''
