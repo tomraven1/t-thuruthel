@@ -1,5 +1,5 @@
 ---
-title: "Electronic skins andmachine learning for intelligent soft robots"
+title: "Electronic skins and machine learning for intelligent soft robots"
 authors:
 - Benjamin Shih
 - Dylan Shah
