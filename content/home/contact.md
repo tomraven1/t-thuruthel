@@ -14,7 +14,8 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-
+  
+  email: t.thuruthel@ucl.ac.uk
 
   # Contact details (edit or remove options as required)
   address:
