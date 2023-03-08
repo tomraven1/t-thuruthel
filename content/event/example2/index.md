@@ -1,5 +1,5 @@
 ---
-title:HOW TO BUILD AN ANDROID
+title: How to build an Android
 
 event: British Science Museum
 event_url: https://www.sciencemuseum.org.uk/see-and-do/science-fiction/how-to-build-an-android
