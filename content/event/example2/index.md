@@ -13,8 +13,7 @@ address:
   country: UK
 
 summary: British Science Museum
-abstract: Throughout the series so far, soft robotics has come up over and over in different areas, from medicine to agriculture. In this episode, I’ll be chatting to three roboticists working on different applications of this fascinating and fast-developing area of robotics- Dr Thomas George Thuruthel (University of Cambridge), Angus Clark (Imperial College London) and Dr Jelizaveta Konstantinova (Ocado Technology).
-
+abstract: Throughout 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
