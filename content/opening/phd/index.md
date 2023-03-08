@@ -1,6 +1,6 @@
 
 ---
-title: PhD positions in Robotics and AI at University College London (September 2023 intake)
+title: PhD positions in Robotics and AI at University College London (September 2023 intake-FILLED)
 summary:
 date: '2016-04-27T00:00:00Z'
 
