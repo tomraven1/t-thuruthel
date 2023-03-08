@@ -13,7 +13,7 @@ address:
   country: UK
 
 summary: British Science Museum
-abstract: Ahead of the festival's closing night screening of Blade Runner: The Final Cut IMAX Edition, an expert panel explores whether we might one day build advanced humans, and how. 
+abstract: Throughout the series so far, soft robotics has come up over and over in different areas, from medicine to agriculture. In this episode, I’ll be chatting to three roboticists working on different applications of this fascinating and fast-developing area of robotics- Dr Thomas George Thuruthel (University of Cambridge), Angus Clark (Imperial College London) and Dr Jelizaveta Konstantinova (Ocado Technology).
 
 
 # Talk start and end times.
