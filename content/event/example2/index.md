@@ -2,7 +2,7 @@
 title:Soft Robotics: a new kind of robot
 
 event: UK RAS RobotTalk
-event_url: https://www.ukras.org.uk/RobotTalk/episode-8-soft-robotics/
+event_url: https://www.sciencemuseum.org.uk/see-and-do/science-fiction/how-to-build-an-android
 
 location:
 address:
