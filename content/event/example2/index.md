@@ -13,8 +13,7 @@ address:
   country: UK
 
 summary: British Science Museum
-abstract: Ahead of the festivals closing night screening of Blade Runner: The Final Cut, an expert panel explores whether we might one day build advanced humans, and how. 
-
+abstract:  
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
