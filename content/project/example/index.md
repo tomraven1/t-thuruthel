@@ -40,5 +40,5 @@ Soft continuum robots have immense potential in numerous industrial applications
 
 Dynamic control of soft robotic manipulators is an open problem yet to be well explored and analyzed. Most of the current applications of soft robotic manipulators utilize static or quasi-dynamic controllers based on kinematic models or linearity in the joint space. However, such approaches are not truly exploiting the rich dynamics of a soft-bodied system. In this paper, we present a model-based policy learning algorithm for closed-loop predictive control of a soft robotic manipulator. The forward dynamic model is represented using a recurrent neural network. The closed-loop policy is derived using trajectory optimization and supervised learning. The approach is verified first on a simulated piecewise constant strain model of a cable driven under-actuated soft manipulator. Furthermore, we experimentally demonstrate on a soft pneumatically actuated manipulator how closed-loop control policies can be derived that can accommodate variable frequency control and unmodeled external loads.
 
-{{< youtube _VkhXT-1XFSo >}}
+{{< youtube VkhXT-1XFSo >}}
 
