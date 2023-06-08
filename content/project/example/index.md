@@ -1,6 +1,6 @@
 ---
 title: Control of Soft Robots
-summary: (In Progress).
+summary: Learning based control strategies for soft robots.
 tags:
 date: '2016-04-27T00:00:00Z'
 
@@ -23,6 +23,4 @@ url_video: ''
 ---
 
 
-
-
-TBC.
+Soft robots are high-dimensional dynamical systems that exhibit complex nonlinear behaviors. Modelling and control of these systems is a challenging task and some of these projects investigate the use of Machine Learning techniques for this problem. 
