@@ -18,12 +18,15 @@ design:
 - [Luchen Li](https://www.linkedin.com/in/luchen-l-29a61a246/) (2023-)
 - [Robert McCarthy](https://www.linkedin.com/in/robert-mccarthy-585791212/) (2022-) [Primary Supervisor: Dr. Zhibin (Alex) Li ]
 
+## Visiting Researchers
+- [Dr. Irfan Refai](https://www.irfanrefai.com/). Assistant Professor, University of Twente. 
+
 ## MSc Students
 
 ## MEng Students
 
 ## Alumni 
-- [Abdulaziz Youssef Alkayas](https://www.linkedin.com/in/abdulaziz-y-alkayas-18a87b127/) (2024)
-- [Enrico Donato](https://www.linkedin.com/in/enricodonato/) (2023)
+- [Abdulaziz Youssef Alkayas](https://www.linkedin.com/in/abdulaziz-y-alkayas-18a87b127/) (2024) [Visiting PhD: Khalifa University]. Supervised by Dr. Federico Renda. 
+- [Enrico Donato](https://www.linkedin.com/in/enricodonato/) (2023) [Visiting PhD: Scuola Superiore Sant'Anna]. Supervised by Dr. Egidio Falotico
 
 
