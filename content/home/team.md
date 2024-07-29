@@ -14,16 +14,16 @@ design:
 ---
 
 ## PhD Students
-- [Yunqi Huang] (https://www.linkedin.com/in/yunqihuang98/) (2023-)
+- [Yunqi Huang](https://www.linkedin.com/in/yunqihuang98/) (2023-)
 - [Luchen Li](https://www.linkedin.com/in/luchen-l-29a61a246/) (2023-)
-- [Robert McCarthy] (https://www.linkedin.com/in/robert-mccarthy-585791212/) (2022-) [Primary Supervisor: Dr. Zhibin (Alex) Li ]
+- [Robert McCarthy](https://www.linkedin.com/in/robert-mccarthy-585791212/) (2022-) [Primary Supervisor: Dr. Zhibin (Alex) Li ]
 
 ## MSc Students
 
 ## MEng Students
 
 ## Alumni 
-- [Abdulaziz Youssef Alkayas] (https://www.linkedin.com/in/abdulaziz-y-alkayas-18a87b127/) (2024)
-- [Enrico Donato] (https://www.linkedin.com/in/enricodonato/) (2023)
+- [Abdulaziz Youssef Alkayas](https://www.linkedin.com/in/abdulaziz-y-alkayas-18a87b127/) (2024)
+- [Enrico Donato](https://www.linkedin.com/in/enricodonato/) (2023)
 
 
