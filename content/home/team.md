@@ -15,7 +15,7 @@ design:
 
 ## PhD Students
 - Yunqi Huang (2023-)
-- Luchen Li (2023-)
+- [Luchen Li](https://www.linkedin.com/in/luchen-l-29a61a246/) (2023-)
 - Robert McCarthy (2022-) [Primary Supervisor: Dr. Zhibin (Alex) Li ]
 
 ## MSc Students
