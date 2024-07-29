@@ -5,7 +5,7 @@ headless: true
 # ... Put Your Section Options Here (title etc.) ...
 title: Research Team 
 subtitle:
- image: "icon.png"
+image: "icon.png"
 weight: 20  # section position on page
 
 design:
