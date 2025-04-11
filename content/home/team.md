@@ -19,7 +19,6 @@ design:
 - [Robert McCarthy](https://www.linkedin.com/in/robert-mccarthy-585791212/) (2022-) [Primary Supervisor: Dr. Zhibin (Alex) Li ]
 
 ## Visiting Researchers
-- [Dr. Irfan Refai](https://www.irfanrefai.com/). Assistant Professor, University of Twente.
 - Xiaolong Zhu. Visiting PhD (2025-)
 - [Yingjie Zheng](https://www.linkedin.com/in/yingjie-zheng-b4898a2a8/). Visiting PhD (2025-)
   
