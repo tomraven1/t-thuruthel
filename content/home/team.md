@@ -19,15 +19,19 @@ design:
 - [Robert McCarthy](https://www.linkedin.com/in/robert-mccarthy-585791212/) (2022-) [Primary Supervisor: Dr. Zhibin (Alex) Li ]
 
 ## Visiting Researchers
-- [Dr. Irfan Refai](https://www.irfanrefai.com/). Assistant Professor, University of Twente. 
-
+- [Dr. Irfan Refai](https://www.irfanrefai.com/). Assistant Professor, University of Twente.
+- Xiaolong Zhu. Visiting PhD (2025-)
+- [Yingjie Zheng](https://www.linkedin.com/in/yingjie-zheng-b4898a2a8/). Visiting PhD (2025-)
+  
 ## MSc Students
 
 ## MEng Students
 
 ## Alumni 
+- [Miss Elisa Setti](https://www.linkedin.com/in/elisa-setti-5b99121bb/?originalSubdomain=it) (2025) [Visiting PhD: Scuola Superiore Sant'Anna]. Supervised by Dr. Egidio Falotico
+- [Dr. Irfan Refai](https://www.irfanrefai.com/) (2024). Assistant Professor, University of Twente. 
 - [Abdulaziz Youssef Alkayas](https://www.linkedin.com/in/abdulaziz-y-alkayas-18a87b127/) (2024) [Visiting PhD: Khalifa University]. Supervised by Dr. Federico Renda. 
 - [Enrico Donato](https://www.linkedin.com/in/enricodonato/) (2023) [Visiting PhD: Scuola Superiore Sant'Anna]. Supervised by Dr. Egidio Falotico
-- [Dr. Irfan Refai](https://www.irfanrefai.com/). Assistant Professor, University of Twente. 
+
 
 
