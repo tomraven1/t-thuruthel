@@ -28,5 +28,6 @@ design:
 ## Alumni 
 - [Abdulaziz Youssef Alkayas](https://www.linkedin.com/in/abdulaziz-y-alkayas-18a87b127/) (2024) [Visiting PhD: Khalifa University]. Supervised by Dr. Federico Renda. 
 - [Enrico Donato](https://www.linkedin.com/in/enricodonato/) (2023) [Visiting PhD: Scuola Superiore Sant'Anna]. Supervised by Dr. Egidio Falotico
+- [Dr. Irfan Refai](https://www.irfanrefai.com/). Assistant Professor, University of Twente. 
 
 
