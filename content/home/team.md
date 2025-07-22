@@ -13,12 +13,12 @@ design:
   columns: '1'
 ---
 ## Postdoctoral Researchers
-- [Kiyanoush Nazari](https://www.linkedin.com/in/kiyanoush-nazari/) (2025) {{< figure library="true" src="kiya.jpg" width="10" >}}
+- [Kiyanoush Nazari](https://www.linkedin.com/in/kiyanoush-nazari/) (2025) {{< figure library="true" src="kiya.jpg" width="100" >}}
 
 ## PhD Students
-- [Pou Wai Lei](https://www.linkedin.com/in/gloria-pou-wai-lei-75bb79153/) (2025) {{< figure library="true" src="gloria.jpg" width="10" >}}
+- [Pou Wai Lei](https://www.linkedin.com/in/gloria-pou-wai-lei-75bb79153/) (2025) {{< figure library="true" src="gloria.jpg" width="100" >}}
 - [Dhruv Tehran](https://www.linkedin.com/in/dhruv-trehan-9111a6198/) (2025) 
-- [Yunqi Huang](https://www.linkedin.com/in/yunqihuang98/) (2023) {{< figure library="true" src="yunqi.jpg" >}}
+- [Yunqi Huang](https://www.linkedin.com/in/yunqihuang98/) (2023) {{< figure library="true" src="yunqi.jpg" width="100" >}}
 - [Luchen Li](https://www.linkedin.com/in/luchen-l-29a61a246/) (2023)
 - [Robert McCarthy](https://www.linkedin.com/in/robert-mccarthy-585791212/) (2022) [Primary Supervisor: Dr. Zhibin (Alex) Li ]
 
