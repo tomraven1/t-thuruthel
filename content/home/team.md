@@ -14,7 +14,7 @@ design:
 ---
 
 ## PhD Students
-- [Yunqi Huang](https://www.linkedin.com/in/yunqihuang98/) (2023-)
+- [Yunqi Huang](https://www.linkedin.com/in/yunqihuang98/) (2023-) {{< figure library="true" src="yunqi.jpg" title="A caption" >}}
 - [Luchen Li](https://www.linkedin.com/in/luchen-l-29a61a246/) (2023-)
 - [Robert McCarthy](https://www.linkedin.com/in/robert-mccarthy-585791212/) (2022-) [Primary Supervisor: Dr. Zhibin (Alex) Li ]
 
