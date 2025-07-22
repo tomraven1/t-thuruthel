@@ -13,18 +13,18 @@ design:
   columns: '1'
 ---
 ## Postdoctoral Researchers
-- [Kiyanoush Nazari](https://www.linkedin.com/in/kiyanoush-nazari/) (2025-) {{< figure library="true" src="kiya.jpg" >}}
+- [Kiyanoush Nazari](https://www.linkedin.com/in/kiyanoush-nazari/) (2025) {{< figure library="true" src="kiya.jpg" >}}
 
 ## PhD Students
-- [Pou Wai Lei](https://www.linkedin.com/in/gloria-pou-wai-lei-75bb79153/) (2025-) {{< figure library="true" src="gloria.jpg" >}}
-- [Dhruv Tehran](https://www.linkedin.com/in/dhruv-trehan-9111a6198/) (2025-) 
-- [Yunqi Huang](https://www.linkedin.com/in/yunqihuang98/) (2023-) {{< figure library="true" src="yunqi.jpg" >}}
-- [Luchen Li](https://www.linkedin.com/in/luchen-l-29a61a246/) (2023-)
-- [Robert McCarthy](https://www.linkedin.com/in/robert-mccarthy-585791212/) (2022-) [Primary Supervisor: Dr. Zhibin (Alex) Li ]
+- [Pou Wai Lei](https://www.linkedin.com/in/gloria-pou-wai-lei-75bb79153/) (2025) {{< figure library="true" src="gloria.jpg" >}}
+- [Dhruv Tehran](https://www.linkedin.com/in/dhruv-trehan-9111a6198/) (2025) 
+- [Yunqi Huang](https://www.linkedin.com/in/yunqihuang98/) (2023) {{< figure library="true" src="yunqi.jpg" >}}
+- [Luchen Li](https://www.linkedin.com/in/luchen-l-29a61a246/) (2023)
+- [Robert McCarthy](https://www.linkedin.com/in/robert-mccarthy-585791212/) (2022) [Primary Supervisor: Dr. Zhibin (Alex) Li ]
 
 ## Visiting Researchers
-- Xiaolong Zhu. Visiting PhD (2025-)
-- [Yingjie Zheng](https://www.linkedin.com/in/yingjie-zheng-b4898a2a8/). Visiting PhD (2025-)
+- Xiaolong Zhu. Visiting PhD (2025)
+- [Yingjie Zheng](https://www.linkedin.com/in/yingjie-zheng-b4898a2a8/). Visiting PhD (2025)
   
 ## MSc Students
 
