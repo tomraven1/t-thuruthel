@@ -19,8 +19,7 @@ design:
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
 
 <div style="flex: 1; min-width: 300px;">
-- [Pou Wai Lei](https://www.linkedin.com/in/gloria-pou-wai-lei-75bb79153/) (2025)  
-  {{< figure library="true" src="gloria.jpg" width="200" >}}
+- [Pou Wai Lei](https://www.linkedin.com/in/gloria-pou-wai-lei-75bb79153/) (2025)  {{< figure library="true" src="gloria.jpg" width="200" >}}
 
 - [Dhruv Tehran](https://www.linkedin.com/in/dhruv-trehan-9111a6198/) (2025)
 
@@ -29,8 +28,7 @@ design:
 </div>
 
 <div style="flex: 1; min-width: 300px;">
-- [Yunqi Huang](https://www.linkedin.com/in/yunqihuang98/) (2023)  
-  {{< figure library="true" src="yunqi.jpg" width="200" >}}
+- [Yunqi Huang](https://www.linkedin.com/in/yunqihuang98/) (2023)  {{< figure library="true" src="yunqi.jpg" width="200" >}}
 
 - [Luchen Li](https://www.linkedin.com/in/luchen-l-29a61a246/) (2023)
 </div>
