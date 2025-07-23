@@ -22,7 +22,7 @@ design:
   
 - [Pou Wai Lei](https://www.linkedin.com/in/gloria-pou-wai-lei-75bb79153/) (2025)  {{< figure library="true" src="gloria.jpg" width="200" >}}
 
-- [Dhruv Tehran](https://www.linkedin.com/in/dhruv-trehan-9111a6198/) (2025)
+- [Dhruv Tehran](https://www.linkedin.com/in/dhruv-trehan-9111a6198/) (2025) {{< figure library="true" src="Dhruv.jpg" width="200" >}}
 
 - [Robert McCarthy](https://www.linkedin.com/in/robert-mccarthy-585791212/) (2022)  
   Primary Supervisor: Dr. Zhibin (Alex) Li
@@ -42,10 +42,12 @@ design:
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
 
 <div style="flex: 1; min-width: 300px;">
+  
 - Xiaolong Zhu. Visiting PhD (2025) {{< figure library="true" src="Xiaolong.jpg" width="200" >}}
 </div>
 
 <div style="flex: 1; min-width: 300px;">
+  
 - [Yingjie Zheng](https://www.linkedin.com/in/yingjie-zheng-b4898a2a8/). Visiting PhD (2025) {{< figure library="true" src="Yingjie.jpg" width="200" >}}
 </div>
 
