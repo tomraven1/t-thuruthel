@@ -32,7 +32,8 @@ design:
   
 - [Yunqi Huang](https://www.linkedin.com/in/yunqihuang98/) (2023)  {{< figure library="true" src="yunqi.jpg" width="200" >}}
 
-- [Luchen Li](https://www.linkedin.com/in/luchen-l-29a61a246/) (2023)
+- [Luchen Li](https://www.linkedin.com/in/luchen-l-29a61a246/) (2023) {{< figure library="true" src="Luchen.jpg" width="200" >}}
+
 </div>
 
 </div>
