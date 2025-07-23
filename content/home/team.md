@@ -13,7 +13,7 @@ design:
   columns: '1'
 ---
 ## Postdoctoral Researchers
-- [Kiyanoush Nazari](https://www.linkedin.com/in/kiyanoush-nazari/) (2025) {{< figure library="true" src="kiya.jpg" width="200" >}}
+- [Kiyanoush Nazari](https://knazari.com/) (2025) {{< figure library="true" src="kiya.jpg" width="200" >}}
 
 ## PhD Students
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
@@ -38,12 +38,19 @@ design:
 </div>
 
 ## Visiting Researchers
-- Xiaolong Zhu. Visiting PhD (2025)
-- [Yingjie Zheng](https://www.linkedin.com/in/yingjie-zheng-b4898a2a8/). Visiting PhD (2025)
-  
-## MSc Students
 
-## MEng Students
+<div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+
+<div style="flex: 1; min-width: 300px;">
+- Xiaolong Zhu. Visiting PhD (2025) {{< figure library="true" src="Xiaolong.jpg" width="200" >}}
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+- [Yingjie Zheng](https://www.linkedin.com/in/yingjie-zheng-b4898a2a8/). Visiting PhD (2025) {{< figure library="true" src="Yingjie.jpg" width="200" >}}
+</div>
+
+</div>
+  
 
 ## Alumni 
 - [Miss Elisa Setti](https://www.linkedin.com/in/elisa-setti-5b99121bb/?originalSubdomain=it) (2025) [Visiting PhD: Scuola Superiore Sant'Anna]. Supervised by Dr. Egidio Falotico
