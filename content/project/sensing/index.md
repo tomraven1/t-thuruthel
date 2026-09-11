@@ -1,3 +1,7 @@
+---
+title: Soft Sensing
+date: 2026-09-11T12:40:41.069Z
+---
 
 ---
 title: Soft Sensing
