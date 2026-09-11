@@ -3,29 +3,6 @@ title: Soft Tactile Sensing
 date: 2026-09-11T12:40:41.069Z
 ---
 
----
-title: Soft Tactile Sensing
-summary: Soft and scalable tactile sensing for robots, with a focus on electrical impedance tomography.
-tags:
-  - Tactile Sensing
-  - Soft Robotics
-  - Electrical Impedance Tomography
-  - EIT
-  - Robot Manipulation
-date: '2026-09-11T00:00:00Z'
-weight: 1
-
-external_link: ''
-
-image:
-  caption:
-  focal_point: Smart
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
----
 
 ## Soft Tactile Sensing
 
