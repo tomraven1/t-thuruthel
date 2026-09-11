@@ -3,7 +3,7 @@ title: Control of Soft Robots
 summary: Learning based control strategies for soft robots.
 tags:
 date: '2016-04-27T00:00:00Z'
-weight: 1
+weight: 2
 
     
 # Optional external URL for project (replaces project detail page).
